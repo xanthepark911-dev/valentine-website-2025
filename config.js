@@ -1,15 +1,15 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
+// Click please ate jhea!!☹️🙏
 // ============================================
 
 const CONFIG = {
-    // Your Valentine's name that will appear in the title
+    // Your Valentine's name Jadee will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "emojis",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+ pageTitle "Can I borrow your phone for my tiktok?  💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "do you agree??🥲💔",                                    // First interaction
+            yesBtn: "Yes, sure",                                             // Text for "Yes" button
+            noBtn: "No, why?",                                               // Text for "No" button
+            secretAnswer: "yes, i would my sister ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            textHow"are you sure??",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text"thank you so much sissy iloveyou and if you say no please let me hehe😭💔🥲🙏☹️" // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
